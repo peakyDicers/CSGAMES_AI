@@ -9,7 +9,7 @@ public class JavaBotEntryPoint {
         bots = new ArrayList<>();
 
         // Add your bots here
-        bots.add(new MyBot());
+        bots.add(new MyBot2());
     }
 
     public ArrayList<Bot> getBots() {

@@ -11,7 +11,7 @@ import java.util.HashMap;
 public class JavaBot extends Bot{
 
     public String get_name(){
-        return "Java";
+        return "Brinux";
     }
 
     public HashMap<String, String> turn(String game_state, HashMap<String, Object> character_state, ArrayList<HashMap<String, Object>> other_bots){
